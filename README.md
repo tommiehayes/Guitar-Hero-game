@@ -1,5 +1,5 @@
 # Guitar-Hero-game
-INSTRUCTIONS
+## INSTRUCTIONS
 To begin the game the mouse has to be pressed. Once the game has begun the
 timer will start counting to 30 seconds. There are two players and each
 player uses three keys each. Player 1 uses A, S and D, while Player 2 
@@ -14,7 +14,7 @@ one and they will start earning more points for each ball. The game ends
 at 30 seconds and the winner will appear on the screen. The mouse can 
 then be pressed to play again. 
 
-VISUAL DESIGN
+## VISUAL DESIGN
 Colours are used to show where the ball should and shouldn't be. Colours
 are also used to show that time is running out as the timer gradually
 turns from green to red.  Also the use of lanes makes it easier for 
